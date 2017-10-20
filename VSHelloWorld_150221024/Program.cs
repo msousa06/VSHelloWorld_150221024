@@ -12,8 +12,7 @@ namespace VSHelloWorld_150221024
 {
     public class Program
     {
-        //comentario
-        //comentario 2
+        //Joao Garcia
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
